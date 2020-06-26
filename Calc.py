@@ -1,4 +1,4 @@
-# This porgram performs arithmatic operation
+# This porgram performs arithmatic operation testing
 def add(a, b):
     sum =  a + b 
     return sum
